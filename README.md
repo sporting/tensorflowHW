@@ -5,3 +5,4 @@
 ```python
 python tf.py
 ```
+  *<a href=http://ufldl.stanford.edu/wiki/index.php/Softmax%E5%9B%9E%E5%BD%92>softmax 回歸分析</a>
